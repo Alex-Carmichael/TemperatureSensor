@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/mobileapp/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.332" />
+        <entry key="..\:/mobileapp/app/src/main/res/drawable/ic_baseline_notifications_none_24.xml" value="0.332" />
+        <entry key="..\:/mobileapp/app/src/main/res/layout/activity_main.xml" value="0.33349123638086214" />
+        <entry key="..\:/mobileapp/app/src/main/res/layout/fragment_history.xml" value="0.5" />
+        <entry key="..\:/mobileapp/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/mobileapp/app/src/main/res/layout/fragment_notifications.xml" value="0.25" />
+        <entry key="..\:/mobileapp/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/mobileapp/app/src/main/res/layout/nav_header.xml" value="0.36666666666666664" />
+        <entry key="..\:/mobileapp/app/src/main/res/menu/nav_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
